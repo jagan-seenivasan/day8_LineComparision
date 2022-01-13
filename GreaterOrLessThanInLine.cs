@@ -32,7 +32,7 @@ namespace Line_Comparision
 			Console.WriteLine("Y line length is " + yLength);
 
 			if (xLength == yLength)
-				Console.WriteLine("Two lines are equal");
+				Console.WriteLine("Two lines are equall");
 			else if (xLength < yLength)
 				Console.WriteLine("Y line is greater than X line");
 			else if (yLength < xLength)
