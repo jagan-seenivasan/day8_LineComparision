@@ -18,7 +18,7 @@ namespace Line_Comparision
             Console.WriteLine("Enter Y2 value :-");
             int Y2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("\n ---------------------------------------------------------------\n ");
+            Console.WriteLine("\n -------\n")
 
             bool flag = true;
             while (flag)
