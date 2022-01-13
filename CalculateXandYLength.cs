@@ -10,7 +10,7 @@ namespace Line_Comparision
 
 		{
 			Console.WriteLine("line based on a point calculate Xandy \n");
-			Console.WriteLine("-----------------------\n");
+			Console.WriteLine("------------------------\n");
 
 			Console.WriteLine("Enter X1 value :-");
 			int X1 = Convert.ToInt32(Console.ReadLine());
