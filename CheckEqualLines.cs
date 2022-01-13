@@ -31,7 +31,7 @@ namespace Line_Comparision
 			Console.WriteLine("X line length is " + xLength);
 			Console.WriteLine("Y line length is " + yLength);
 			if (xLength == yLength)
-				Console.WriteLine("Two lines are equal");
+				Console.WriteLine("Two lines are equall");
 			else
 				Console.WriteLine("Two lines are not equal");
 		}
